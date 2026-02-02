@@ -1,0 +1,6 @@
+/* TailwindCSS 코드 불러오기 */
+@import "tailwindcss";
+
+html, body, #root {
+    @apply w-full h-full;
+}

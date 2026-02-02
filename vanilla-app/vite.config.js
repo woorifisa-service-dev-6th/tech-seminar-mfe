@@ -11,7 +11,7 @@ export default defineConfig({
       },
       remotes: {
         remoteWidget: 'http://localhost:5004/assets/remoteEntry.js',
-        remoteDraw: 'http://localhost:5005/assets/remoteEntry.js', // 그림판 추가
+        remoteDraw: 'http://localhost:5005/assets/remoteEntry.js', 
       },
       shared: {},
     }),
