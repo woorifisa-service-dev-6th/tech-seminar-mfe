@@ -87,22 +87,22 @@ cd host-app && npm i && npm run dev
 
 # 프로그램 실행결과 이미지
 
-> 메인 홈화면
+> **메인 홈화면**
 ![메인 홈화면](main-page.png)
 
 <br>
 
-> 리액트 앱 실행화면
+> **리액트 앱 실행화면**
 ![리액트 앱 실행화면](React-app-page.png)
 
 <br>
 
-> 바닐라 앱 실행화면
+> **바닐라 앱 실행화면**
 ![바닐라 앱 실행화면](Vanilla-app-page.png)
 
 <br>
 
-> Nextjs 앱 실행화면
+> **Nextjs 앱 실행화면**
 ![Next 앱 실행화면](Nextjs-app-page.png)
 
 
@@ -113,10 +113,10 @@ cd host-app && npm i && npm run dev
 
 | Member | Role | GitHub |
 | :--- | :--- | :--- |
-| **이유림** | 팀장 / Module Federation 담당 | [@깃허브 주소](https://github.com/urimL) |
-| **박주호** | MFE 아키텍처 분석 담당 | [@깃허브 주소](https://github.com/jooho2075) |
-| **이건희** | iframe 담당 | [@깃허브 주소](https://github.com/give-and-take) |
-| **송민혁** | MFE 인프라 구성 | [@깃허브 주소](https://github.com/S0NGMinHyuk/) |
+| **이유림** | 팀장 / Module Federation 담당 | [@urimL](https://github.com/urimL) |
+| **박주호** | MFE 아키텍처 분석 담당 | [@jooho2075](https://github.com/jooho2075) |
+| **이건희** | iframe 담당 | [@give-and-take](https://github.com/give-and-take) |
+| **송민혁** | MFE 인프라 구성 | [@S0NGMinHyuk](https://github.com/S0NGMinHyuk/) |
 
 ---
 © 2026 Team MFE. All Rights Reserved.
